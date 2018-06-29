@@ -6,7 +6,7 @@
 
 * WICWIU는 모든 API가 C++로 제공되어 메모리 및 성능 최적화에 유리합니다. 또한, 응용시스템의 개발 외에도 프레임워크 자체를 특수한 환경에 맞도록 수정 및 확장이 가능합니다.
 
-* API 및 operator / layer 개발을 위한 API documentation은 추후 올리겠습니다.
+* Custom Operator / Layer 개발을 위한 API documentation은 추후 올리겠습니다.
 
 * WICWIU는 Apache2.0 라이선스를 적용해 연구 목적 및 상용 목적으로 제약 없이 활용 가능합니다.
 
@@ -22,7 +22,7 @@
 
 * 학습을 위한 한국어 문서 (준비중)
 
-* 현재는 MNIST tutorial만 지원하지만, ImageNet에 대한 튜토리얼도 공개하겠습니다.
+* 현재는 MNIST tutorial만 지원하지만, ImageNet tutorial도 공개하겠습니다.
 
 ## WICWIU는 다음과 같은 환경을 지원하고 있습니다.
 
