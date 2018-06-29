@@ -2,7 +2,7 @@
 
 * WICWIU는 국내 대학 최초로 공개하는 딥러닝 오픈소스 프레임워크입니다.
 
-* WICWIU("What I Create is What I Understand.")라는 이름은 Richard Feynman의 "What I cannot create, I cannot understand."에서 영감을 받아 지었습니다. "우리가 직접 만들며 이해한 딥러닝 프레임워크"라는 뜻입니다.
+* WICWIU("What I Create is What I Understand.")라는 이름은 Richard Feynman의 "What I cannot create, I do not understand."에서 영감을 받아 지었습니다. "우리가 직접 만들며 이해한 딥러닝 프레임워크"라는 뜻입니다.
 
 * WICWIU는 모든 API가 C++로 제공되어 메모리 및 성능 최적화에 유리합니다. 또한, 응용시스템의 개발 외에도 프레임워크 자체를 특수한 환경에 맞도록 수정 및 확장이 가능합니다.
 
